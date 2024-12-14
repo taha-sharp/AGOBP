@@ -13,4 +13,11 @@ anyways thanks for testing my game
 please rate and comment so i can inprove my game
 # Bugs?
 please please tell me the bugs i will fix it
+the game goes to 10.0.0
+the will be end of supported or not? God will now?
+# 0.1.4: the empty gameobjects joke
+# 0.1.2: goes to a pause menu!
+# 0.1.1: level 1 goes full
+# 0.1.0 i hope you like physics
+# 0.0.1.5 forget my works ples
 
